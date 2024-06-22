@@ -40,7 +40,7 @@ pyxconfig/
 ### `pyxconfig.json`
 
 This file contains the paths to the device files. Example content:
-
+```
 {
   "nvidia_device_files": {
     "latest": "config/nvidia_latest.txt",
@@ -52,14 +52,16 @@ This file contains the paths to the device files. Example content:
   "radeon_device_file": "config/radeon_devices.txt",
   "card_detect_directory": "cardDetect/"
 }
+```
 
 ## Usage
 
     Ensure you have the necessary dependencies installed.
     Run the script as the root user:
 
-
+```
 python3 scripts/pyxconfig.py <setup|auto>
+```
 
 ## License
 
