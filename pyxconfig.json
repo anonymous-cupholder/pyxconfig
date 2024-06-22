@@ -1,0 +1,12 @@
+{
+  "nvidia_device_files": {
+    "latest": "config/nvidia_latest.txt",
+    "470": "config/nvidia_470.txt",
+    "390": "config/nvidia_390.txt",
+    "340": "config/nvidia_340.txt",
+    "304": "config/nvidia_304.txt"
+  },
+  "radeon_device_file": "config/radeon_devices.txt",
+  "card_detect_directory": "cardDetect/"
+}
+

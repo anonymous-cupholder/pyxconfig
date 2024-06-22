@@ -1,0 +1,193 @@
+GeForce  705A
+GeForce 510
+GeForce 605
+GeForce 610
+GeForce 620M
+GeForce 720A
+GeForce 730A
+GeForce 805A
+GeForce 825M
+GeForce 830A
+GeForce 910M
+GeForce 920M
+GeForce 945A
+GeForce GT 1010
+GeForce GT 415M
+GeForce GT 420
+GeForce GT 425M
+GeForce GT 430
+GeForce GT 445M
+GeForce GT 520MX
+GeForce GT 530
+GeForce GT 540M
+GeForce GT 625 (OEM)
+GeForce GT 645
+GeForce GT 645M
+GeForce GT 705
+GeForce GT 735M
+GeForce GTX 1060 5GB
+GeForce GTX 1070 With Max-Q Design
+GeForce GTX 1070 with MaxQ Design
+GeForce GTX 1650 SUPER
+GeForce GTX 1650 Ti
+GeForce GTX 1660
+GeForce GTX 1660 SUPER
+GeForce GTX 460 SE
+GeForce GTX 460 SE v2
+GeForce GTX 460 v2
+GeForce GTX 460M
+GeForce GTX 465
+GeForce GTX 470
+GeForce GTX 470M
+GeForce GTX 480
+GeForce GTX 480M
+GeForce GTX 485M
+GeForce GTX 550 Ti
+GeForce GTX 555
+GeForce GTX 560 SE
+GeForce GTX 560M
+GeForce GTX 570M
+GeForce GTX 580M
+GeForce GTX 590
+GeForce GTX 670M
+GeForce GTX 670MX
+GeForce GTX 675M
+GeForce GTX 680M
+GeForce GTX 680MX
+GeForce GTX 760 (192-bit)
+GeForce GTX 760 Ti (OEM)
+GeForce GTX 760A
+GeForce GTX 760M
+GeForce GTX 770M
+GeForce GTX 775M
+GeForce GTX 850A
+GeForce GTX 870M
+GeForce GTX 880M
+GeForce MX230
+GeForce MX250
+GeForce MX330
+GeForce MX350
+GeForce MX450
+GeForce MX550
+GeForce MX570
+GeForce RTX 2050
+GeForce RTX 2060 SUPER
+GeForce RTX 2080 Ti
+GeForce RTX 3050 Laptop GPU
+GeForce RTX 3050 Ti Laptop GPU
+GeForce RTX 3050 Ti Mobile
+GeForce RTX 3060
+GeForce RTX 3060 Laptop GPU
+GeForce RTX 3060 Ti
+GeForce RTX 3070
+GeForce RTX 3070 Laptop GPU
+GeForce RTX 3070 Ti
+GeForce RTX 3080
+GeForce RTX 3080 Laptop GPU
+GeForce RTX 3080 Ti
+GeForce RTX 3090
+NVIDIA RTX A2000
+NVIDIA RTX A2000 12GB
+NVIDIA RTX A2000 Laptop GPU
+NVIDIA RTX A3000 Laptop GPU
+NVIDIA RTX A4000
+NVIDIA RTX A4000 Laptop GPU
+NVIDIA RTX A4500
+NVIDIA RTX A5000
+NVIDIA RTX A5000 Laptop GPU
+NVIDIA RTX A6000
+NVIDIA T1000
+NVIDIA T1000 8GB
+NVIDIA T1200 Laptop GPU 
+NVIDIA T400
+NVIDIA T400 4GB
+NVIDIA T500
+NVIDIA T600
+NVIDIA T600 Laptop GPU
+NVIDIA TITAN RTX
+NVIDIA TITAN V
+NVIDIA TITAN X (Pascal)
+NVIDIA TITAN Xp
+NVS 310
+NVS 315
+
+NVS 5400M
+P104-100
+P104-101
+P106-090
+P106-100
+Quadro 1000M
+Quadro 2000
+Quadro 2000D
+Quadro 2000M
+Quadro 3000M
+Quadro 4000
+Quadro 4000M
+Quadro 5000
+Quadro 5000M
+Quadro 500M
+Quadro 5010M
+Quadro 600
+Quadro 7000
+Quadro K1000M
+Quadro K1100M
+Quadro K2000M
+Quadro K2100M
+Quadro K3000M
+Quadro K3100M
+Quadro K4000M
+Quadro K4100M
+Quadro K5000M
+Quadro K500M
+Quadro K5100M
+Quadro K510M
+Quadro K610M
+Quadro P2200
+Quadro P520
+Quadro RTX 3000
+Quadro RTX 4000
+Quadro RTX 5000
+Quadro RTX 8000
+Quadro T1000
+Quadro T2000
+TITAN V
+TITAN X (Pascal)
+TITAN Xp
+Tesla C2050 / C2070
+Tesla C2070
+Tesla C2075
+Tesla K10
+Tesla K20Xm
+Tesla K20c
+Tesla K20m
+Tesla K20s
+Tesla K40c
+Tesla K40m
+Tesla K40s
+Tesla K40st
+Tesla K40t
+Tesla K8
+Tesla K80
+Tesla M2070
+Tesla M2070-Q
+Tesla M2075
+Tesla M2090
+Tesla M4
+Tesla M40
+Tesla M40 24GB
+Tesla M6
+Tesla M60
+Tesla P100-PCIE-12GB
+Tesla P100-PCIE-16GB
+Tesla P100-SXM2-16GB
+Tesla P4
+Tesla P40
+Tesla P6
+Tesla S2050
+Tesla T20 Processor
+Tesla V100-DGXS-32GB
+Tesla V100-FHHL-16GB
+Tesla V100-PCIE-16GB
+Tesla V100-PCIE-32GB
+Tesla V100-SXM2-16GB
+Tesla V100-SXM2-32GB
