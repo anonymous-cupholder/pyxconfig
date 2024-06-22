@@ -8,7 +8,9 @@ This document provides instructions on how to run the unit tests for the pyxconf
 
 1. **Python 3.x**: Ensure that Python 3.x is installed on your system. You can check the installed version by running:
 
+```
    python3 --version
+```
 
     unittest module: The unittest module is included in the standard Python library, so no additional installation is necessary.
 
@@ -16,6 +18,7 @@ This document provides instructions on how to run the unit tests for the pyxconf
 
 Ensure that your directory structure looks like this:
 
+```
 pyxconfig/
 ├── cardDetect/
 │   ├── XF86Config.amd
@@ -42,36 +45,42 @@ pyxconfig/
 ├── LICENSE
 ├── README.md
 └── TESTING.md
+```
 
 ## Running the Tests
 
     Navigate to the Project Directory: Open a terminal and navigate to the root directory of the project:
 
+```
 cd path/to/pyxconfig
+```
 
 Run the Tests: Use the unittest module to discover and run the tests:
 
+```
     python3 -m unittest discover tests
+```
 
     This command will automatically discover all test files in the tests directory and execute them.
 
 ## Understanding Test Results
-
+```
     OK: Indicates that all tests passed successfully.
     FAIL: Indicates that one or more tests failed. The output will show which tests failed and the reasons for the failure.
     ERROR: Indicates that there was an error in the test execution itself. This usually points to an issue in the test setup.
-
+```
 Example Output
 
 Here is an example of what the test output might look like:
 
+```
 $ python3 -m unittest discover tests
 ..........
 ----------------------------------------------------------------------
 Ran 10 tests in 0.005s
 
 OK
-
+```
 In this example, all tests passed, as indicated by the OK status.
 Adding New Tests
 
