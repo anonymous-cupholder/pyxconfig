@@ -6,6 +6,7 @@ This project provides a script to configure graphics drivers on a FreeBSD or Gho
 
 ## Directory Structure
 
+```
 pyxconfig/
 ├── cardDetect/
 │ ├── XF86Config.amd
@@ -32,7 +33,7 @@ pyxconfig/
 ├── LICENSE
 ├── README.md
 └── TESTING.md
-
+```
 
 ## Configuration
 
